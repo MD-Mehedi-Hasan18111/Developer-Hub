@@ -1,0 +1,15 @@
+.developers-container{
+    padding: 30px;
+}
+
+.developers{
+    margin-left: 20px;
+}
+
+.cart{
+    border-radius: 20px;
+    box-shadow: 0 5px 20px darkgray;
+    border: 1px solid darkgray;
+    margin-top: 30px;
+    padding: 20px;
+}
